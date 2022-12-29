@@ -1,3 +1,10 @@
+'''
+É possível inserir númeors em variáveis também;
+Temos os inteiros: 1, 655, 568
+E os de ponto flutuante: 1.54, 25.41, 40.89, 0.003
+Obs: Em python utilizamos o . para separar as casas decimais e não a ,
+'''
+
 ano2020 = 2020
 print(ano2020)
 
