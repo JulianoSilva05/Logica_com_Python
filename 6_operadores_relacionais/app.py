@@ -13,4 +13,6 @@ print(a >= b)#Resultado
 print(a >= c)#Resultado
 print(a > c)#Resultado
 
-
+print(a <= b)#Resultado
+print(a <= c)#Resultado
+print(a < c)#Resultado
