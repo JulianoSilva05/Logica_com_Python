@@ -1,5 +1,5 @@
 '''
-O tipo de daod boolean se resume e TRUE e FALSE, ou seja, verdadeiro e falso
+O tipo de dado boolean se resume e TRUE e FALSE, ou seja, verdadeiro e falso
 Podemos criar variáveis com estes valores;
 E eles serão úteis mais a frente, quando criamos programas que tem condições de comparação
 '''
