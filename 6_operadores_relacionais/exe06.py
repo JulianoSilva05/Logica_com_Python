@@ -17,13 +17,13 @@ b=3
 c=10
 d=2
 
-a > b #resultado
-c == a #resultado
-d != a #resultado
-a <= c #resultado
-b > c #resultado
-a != c #resultado
-d >= a #resultado
-d != b #resultado
-d < c #resultado
-b >= a #resultado
+print(a > b) #T
+print(c == a) #f
+print(d != a) #T
+print(a <= c) #T
+print(b > c) #F
+print(a != c) #T
+print(d >= a) #T
+print(d != b) #T
+print(d < c) #T
+print(b >= a) #F
