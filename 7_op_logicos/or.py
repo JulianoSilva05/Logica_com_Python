@@ -22,4 +22,4 @@ print(b > a or b == 20)
 
 nome = "Juliano"
 idade = 33
-print(nome == "Juliano" or idade > 30)
+print(nome == "Juliano" or idade < 33)
