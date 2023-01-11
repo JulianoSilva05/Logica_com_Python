@@ -3,8 +3,8 @@
 O operador or vai comparar um boobeano com outro;
 Podemos utilizar com duas comparações;
 O resultado do operador and também será um boolean;
-O and só retorna FALSE se ambos valores forem FALSE;
 '''
+# → O and só retorna FALSE se ambos valores forem FALSE;
 #Tabela Verdade
 '''
 A   |   B   |   A OR B

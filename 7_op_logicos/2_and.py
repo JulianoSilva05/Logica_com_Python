@@ -2,9 +2,9 @@
 '''
 O operador and vai copmparar um booleano com outro;
 Podemos utilizar com duas comparações;
-O resultado do operador and também será um boolean;
-O and só retorna True se ambos os valores forem True
-'''
+O resultado do operador and também será um boolean;'''
+# → O and só retorna True se ambos os valores forem True
+
 #Tabela Verdade
 '''
 A   |   B   |   A AND B
