@@ -1,4 +1,4 @@
-#Exercicio 8
+#Exercicio 10
 '''
 Crie uma variável salario com um valor de sua escolha;
 Crie uma variável aumento com um valor qualquer;

@@ -1,4 +1,4 @@
-#Exercicio 7
+#Exercicio 9
 '''
 Escreva uma expressão que verifica se um aluno atingiu a média escolar que é 7;
 Crie três variáveis com as 3 notas de 1 aluno;
