@@ -5,7 +5,7 @@
 • Exemplo:
 • print(frase[0:5]) → Retorna do primeiro ao quinto índice
 '''
-frase = "O rato roeu a ropa do rei de Roma"
+frase = "O rato roeu a roupa do rei de Roma"
 tipo = (type(frase))
 print(tipo)
 print(len(frase))
