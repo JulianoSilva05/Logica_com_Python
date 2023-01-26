@@ -13,6 +13,8 @@ elif salario < 4000:
     limite = 2000
 elif salario < 10000:
     limite = 3000
+elif salario > 10000:
+    print("Limite aprovado, para mais detalhes entre em contato com o gerente!")
 else:
     print("Fale com o gerente!")
 
